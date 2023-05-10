@@ -188,3 +188,7 @@ stream.meet.google.com
 youtube.googleapis.com
 www.youtube-nocookie.com
 googlevideo.com
+# MS Related
+*.skype.com
+# Solitaire
+*.mobilityware.com
