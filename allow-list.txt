@@ -5,7 +5,12 @@ www.google-analytics.com
 # [google.com]
 ads.google.com
 adservice.google.com
+account.google.com
+accounts.google.com
 # [googleadservices.com]
 googleadservices.com
 pagead2.googleadservices.com
 www.googleadservices.com
+# [admob.com]
+apps.admob.com
+media.admob.com
