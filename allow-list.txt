@@ -181,3 +181,10 @@ sites.google.com
 *.googlegroups.com
 ipv4.google.com
 ipv4.google.com
+# https://apps.google.com/supportwidget/articlehome?hl=en&article_url=https%3A%2F%2Fsupport.google.com%2Fa%2Fanswer%2F1279090%3Fhl%3Den&assistant_id=generic-unu&product_context=1279090&product_name=UnuFlow&trigger_context=a
+# Google meet
+*.clients[N].google.com
+stream.meet.google.com
+youtube.googleapis.com
+www.youtube-nocookie.com
+googlevideo.com
