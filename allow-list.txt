@@ -196,3 +196,5 @@ googlevideo.com
 # WhatsApp
 *.whatsapp.net
 *.whatsapp.com
+# Roku
+*.logs.roku.com
