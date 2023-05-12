@@ -196,5 +196,16 @@ googlevideo.com
 # WhatsApp
 *.whatsapp.net
 *.whatsapp.com
+# https://developers.facebook.com/docs/whatsapp/guides/network-requirements
+.*.cdn.whatsapp.net
+g.whatsapp.net
+graph.facebook.com
+graph.whatsapp.com
+media-.*.cdn.whatsapp.net
+media..*.fna.whatsapp.net
+mmg.whatsapp.net
+pps.whatsapp.net
+static.whatsapp.net
+v.whatsapp.net
 # Roku
 *.logs.roku.com
