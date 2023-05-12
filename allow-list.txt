@@ -192,3 +192,6 @@ googlevideo.com
 *.skype.com
 # Solitaire
 *.mobilityware.com
+# WhatsApp
+*.whatsapp.net
+*.whatsapp.com
