@@ -146,6 +146,7 @@ download.developer.apple.com
 playgrounds-assets-cdn.apple.com
 playgrounds-cdn.apple.com
 sylvan.apple.com
+*.iadsdk.apple.com
 # https://apps.google.com/supportwidget/articlehome?hl=en&article_url=https%3A%2F%2Fsupport.google.com%2Fa%2Fanswer%2F2589954%3Fhl%3Den&assistant_id=generic-unu&product_context=2589954&product_name=UnuFlow&trigger_context=a
 # Drive and Sites firewall and proxy settings
 www.google.com
