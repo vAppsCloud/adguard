@@ -11,6 +11,7 @@ accounts.google.com
 googleadservices.com
 pagead2.googleadservices.com
 www.googleadservices.com
+clickserve.dartsearch.net
 # [admob.com]
 apps.admob.com
 media.admob.com
