@@ -210,3 +210,9 @@ static.whatsapp.net
 v.whatsapp.net
 # Roku
 *.logs.roku.com
+# Ring Network
+*.ring.com
+*.ring.devices.a2z.com
+*.ring.net
+*.rings.solutions
+ring.com.cdn.cloudflare.net	
