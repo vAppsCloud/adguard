@@ -216,3 +216,4 @@ v.whatsapp.net
 *.ring.net
 *.rings.solutions
 ring.com.cdn.cloudflare.net	
+api.ring.com
