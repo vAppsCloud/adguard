@@ -3,3 +3,5 @@ iprofiles.apple.com
 mdmenrollment.apple.com
 deviceenrollment.apple.com
 gdmf.apple.com
+#based on att smarthome manager
+bid.servemp3.com
